@@ -1,0 +1,496 @@
+Locality / Area,Average Price Range (per sq. ft.),Primary Property Types,Flats,Plots,Houses/Villas,Commercial,Nearest Hospital Distance,Nearest School Distance,Lake Distance (Approx.),Luxury Apartments?,Dist. to MP Nagar/DB Mall,Dist. to AIIMS,Dist. to Airport,Dist. to Bhopal Jn. Rly Station
+Arera Colony,"₹13,000 – ₹17,500","Villas, Luxury Flats",TRUE,TRUE,TRUE,FALSE,1.4 km,1.2 km,1.5 km (Shahpura),TRUE,2.5 km,3.0 km,17.5 km,7.5 km
+"Shahpura (Sec A, B, C)","₹5,700 – ₹11,200","Premium Flats, Bungalows",TRUE,FALSE,TRUE,FALSE,0.8 km,1.1 km,0.5 km (Shahpura),TRUE,4.5 km,4.0 km,19.5 km,9.5 km
+Chuna Bhatti,"₹6,500 – ₹10,800",High-end Flats & Villas,TRUE,FALSE,TRUE,FALSE,1.5 km,1.8 km,1.0 km (Shahpura),TRUE,5.5 km,5.0 km,18.5 km,10.5 km
+Indrapuri,"₹10,000 – ₹13,600","Flats, Commercial Hubs",TRUE,FALSE,FALSE,TRUE,0.9 km,1.5 km,4.5 km (Lower Lake),FALSE,4.0 km,6.5 km,16.5 km,6.0 km
+M.P. Nagar,"₹9,500 – ₹14,000",Highly Commercial Spaces,TRUE,FALSE,FALSE,TRUE,1.2 km,1.6 km,3.0 km (Lower Lake),FALSE,0.0 km,3.2 km,16.0 km,5.0 km
+E-7 (Arera Ext.),"₹8,500 – ₹12,500",Luxury Low-rise Flats,TRUE,FALSE,TRUE,FALSE,1.8 km,1.5 km,1.8 km (Shahpura),TRUE,3.8 km,3.5 km,18.8 km,8.8 km
+Gulmohar Colony,"₹6,000 – ₹9,000",Mid-to-Premium Flats,TRUE,FALSE,TRUE,FALSE,0.6 km,1.1 km,2.0 km (Shahpura),TRUE,5.0 km,3.5 km,20.0 km,10.0 km
+VIP Road,"₹7,500 – ₹9,500","Lake-view Flats, Plots",TRUE,TRUE,TRUE,FALSE,2.2 km,1.4 km,0.1 km (Upper Lake),TRUE,11.0 km,13.5 km,8.5 km,6.0 km
+Idgah Hills,"₹4,500 – ₹6,500","Houses, Older Blocks",TRUE,FALSE,TRUE,FALSE,0.8 km,1.0 km,1.5 km (Upper Lake),FALSE,8.5 km,11.5 km,9.0 km,3.5 km
+Koh-e-Fiza,"₹4,800 – ₹7,200",Premium Residential,TRUE,FALSE,TRUE,FALSE,2.1 km,0.9 km,1.2 km (Upper Lake),TRUE,11.5 km,14.5 km,6.5 km,6.5 km
+Awadhpuri,"₹3,500 – ₹5,000","Independent Houses, Plots",TRUE,TRUE,TRUE,FALSE,1.5 km,2.4 km,6.5 km (Lower Lake),FALSE,8.0 km,9.5 km,22.5 km,11.5 km
+Ayodhya Bypass,"₹3,000 – ₹4,500","Affordable Flats, Plots",TRUE,TRUE,TRUE,FALSE,1.2 km,1.8 km,7.0 km (Lower Lake),FALSE,7.5 km,10.5 km,16.5 km,7.5 km
+Kolar Road,"₹3,500 – ₹6,000","Apartments, Duplexes",TRUE,FALSE,TRUE,FALSE,1.4 km,1.9 km,2.0 km (Kaliasot Dam),TRUE,8.5 km,7.5 km,22.5 km,13.5 km
+Hoshangabad Road,"₹4,000 – ₹7,000","Premium Flats, Commercial",TRUE,FALSE,TRUE,TRUE,2.1 km,1.8 km,4.0 km (Shahpura),TRUE,7.0 km,4.5 km,22.0 km,12.0 km
+Bairagarh,"₹4,500 – ₹7,500","Independent Houses, Shops",TRUE,FALSE,TRUE,TRUE,0.7 km,1.3 km,2.5 km (Upper Lake),FALSE,14.5 km,17.5 km,4.5 km,9.5 km
+Bawadiya Kalan,"₹6,000 – ₹9,500","Luxury Villas, Premium Flats",TRUE,FALSE,TRUE,FALSE,1.2 km,2.0 km,2.5 km (Shahpura),TRUE,6.0 km,4.5 km,21.0 km,11.0 km
+Katara Hills,"₹3,500 – ₹5,500","Duplexes, Affordable Housing",TRUE,FALSE,TRUE,FALSE,1.1 km,1.5 km,4.5 km (Kaliasot Dam),FALSE,11.0 km,7.5 km,26.0 km,16.0 km
+Saket Nagar,"₹5,500 – ₹8,500","Flats, Houses",TRUE,FALSE,TRUE,FALSE,1.3 km,1.1 km,3.5 km (Shahpura),FALSE,4.0 km,1.0 km,19.5 km,9.5 km
+Habibganj,"₹7,000 – ₹10,000","Commercial, Residential Flats",TRUE,FALSE,FALSE,TRUE,0.5 km,1.4 km,2.8 km (Shahpura),FALSE,1.8 km,3.0 km,17.5 km,7.5 km
+Govindpura,"₹4,000 – ₹6,500","Industrial, Quarters",TRUE,FALSE,FALSE,FALSE,2.2 km,1.7 km,5.5 km (Lower Lake),FALSE,5.5 km,7.5 km,18.5 km,6.5 km
+Raisen Road,"₹3,000 – ₹5,000","Plots, Affordable Housing",FALSE,TRUE,TRUE,FALSE,1.8 km,2.3 km,8.0 km (Lower Lake),FALSE,10.5 km,12.5 km,21.5 km,11.0 km
+Karond,"₹3,000 – ₹4,500","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.4 km,2.5 km,6.0 km (Upper Lake),FALSE,10.0 km,13.5 km,11.5 km,5.0 km
+BHEL Township,"₹4,500 – ₹6,500",Government Quarters,TRUE,FALSE,TRUE,FALSE,1.5 km,1.8 km,5.0 km (Lower Lake),FALSE,6.5 km,7.0 km,19.5 km,7.5 km
+Anand Nagar,"₹3,500 – ₹5,500","Residential Flats, Plots",TRUE,TRUE,FALSE,FALSE,1.1 km,1.5 km,7.5 km (Lower Lake),FALSE,8.5 km,10.5 km,21.0 km,9.5 km
+Bagmugaliya,"₹4,000 – ₹6,000","Houses, Apartments",TRUE,FALSE,TRUE,FALSE,2.1 km,1.4 km,3.8 km (Shahpura),FALSE,7.2 km,2.8 km,22.5 km,12.5 km
+Jahangirabad,"₹4,000 – ₹6,000","Older Blocks, Commercial",TRUE,FALSE,FALSE,TRUE,0.3 km,0.8 km,0.8 km (Lower Lake),FALSE,4.0 km,6.8 km,13.5 km,3.0 km
+Shyamla Hills,"₹9,000 – ₹15,000","Luxury Villas, Lake-view",TRUE,FALSE,TRUE,FALSE,1.8 km,1.2 km,0.2 km (Upper Lake),TRUE,6.5 km,9.5 km,11.5 km,5.0 km
+TT Nagar,"₹7,000 – ₹11,000","Commercial, Premium Flats",TRUE,FALSE,FALSE,TRUE,0.9 km,0.5 km,1.8 km (Lower Lake),TRUE,3.5 km,6.5 km,14.5 km,4.8 km
+Patel Nagar,"₹3,500 – ₹5,500","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.3 km,0.6 km,8.0 km (Lower Lake),FALSE,9.5 km,11.5 km,21.5 km,10.5 km
+Sonagiri,"₹4,000 – ₹6,000","Residential Flats, Houses",TRUE,FALSE,TRUE,FALSE,1.5 km,0.7 km,6.0 km (Lower Lake),FALSE,6.8 km,9.5 km,18.5 km,7.5 km
+Piplani,"₹3,500 – ₹5,500","Residential Flats, Houses",TRUE,FALSE,TRUE,FALSE,1.4 km,1.2 km,5.8 km (Lower Lake),FALSE,5.8 km,8.5 km,18.0 km,7.0 km
+Misrod,"₹3,000 – ₹5,000","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.6 km,1.2 km,5.2 km (Shahpura),FALSE,9.5 km,6.8 km,24.5 km,14.5 km
+Khajuri Kalan,"₹2,500 – ₹4,000","Plots, Affordable Houses",FALSE,TRUE,TRUE,FALSE,1.9 km,1.4 km,8.5 km (Lower Lake),FALSE,10.5 km,13.0 km,21.5 km,11.5 km
+Salaiya,"₹3,500 – ₹5,500","Duplexes, Apartments",TRUE,FALSE,TRUE,FALSE,1.8 km,2.2 km,3.5 km (Kaliasot Dam),FALSE,8.2 km,7.0 km,23.5 km,13.2 km
+Nayapura,"₹3,000 – ₹4,500",Independent Houses,FALSE,TRUE,TRUE,FALSE,2.4 km,2.1 km,3.8 km (Kaliasot Dam),FALSE,8.0 km,6.8 km,23.0 km,13.0 km
+Jatkhedi,"₹3,500 – ₹5,500","Apartments, Plots",TRUE,TRUE,FALSE,FALSE,1.2 km,0.8 km,4.8 km (Shahpura),FALSE,8.5 km,5.8 km,23.5 km,13.5 km
+Danish Nagar,"₹5,000 – ₹7,500","Premium Duplexes, Villas",FALSE,TRUE,TRUE,FALSE,1.8 km,1.2 km,3.2 km (Shahpura),TRUE,7.5 km,5.2 km,22.5 km,12.5 km
+Mahabadia,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,3.2 km,2.8 km,5.0 km (Kaliasot Dam),FALSE,10.5 km,9.2 km,24.5 km,15.5 km
+Borda,"₹2,000 – ₹3,500","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,5.5 km,4.2 km,4.0 km (Kerwa Dam),FALSE,13.5 km,12.0 km,24.0 km,16.5 km
+Ratibad,"₹2,500 – ₹4,500","Farmhouses, Plots",FALSE,TRUE,TRUE,FALSE,0.5 km,1.1 km,2.5 km (Kerwa Dam),FALSE,14.0 km,13.5 km,21.0 km,15.0 km
+Neelbad,"₹2,500 – ₹4,500","Farmhouses, Plots",FALSE,TRUE,TRUE,FALSE,0.8 km,2.0 km,3.0 km (Kaliasot Dam),FALSE,11.5 km,11.0 km,20.5 km,13.0 km
+Bairagarh Chichali,"₹3,000 – ₹4,500",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.9 km,1.5 km,2.8 km (Kaliasot Dam),FALSE,9.8 km,8.5 km,23.5 km,14.5 km
+Khejrabari,"₹2,500 – ₹4,000",Plots,FALSE,TRUE,FALSE,FALSE,4.8 km,3.2 km,3.5 km (Kerwa Dam),FALSE,11.5 km,10.0 km,21.5 km,14.0 km
+Chhawani,"₹3,000 – ₹5,000","Independent Houses, Commercial",FALSE,TRUE,TRUE,TRUE,2.8 km,2.1 km,7.5 km (Upper Lake),FALSE,10.0 km,13.0 km,13.5 km,6.5 km
+Semra,"₹2,500 – ₹4,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.9 km,1.5 km,6.5 km (Upper Lake),FALSE,8.2 km,11.2 km,14.2 km,4.5 km
+Bhanpur,"₹2,500 – ₹4,000","Affordable Housing, Plots",FALSE,TRUE,TRUE,FALSE,1.2 km,1.0 km,6.0 km (Upper Lake),FALSE,8.5 km,11.5 km,13.5 km,4.0 km
+Chhola,"₹2,500 – ₹4,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,3.2 km,2.1 km,4.5 km (Upper Lake),FALSE,7.5 km,10.5 km,12.5 km,3.0 km
+Nishatpura,"₹2,500 – ₹4,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.1 km,0.8 km,5.2 km (Upper Lake),FALSE,7.2 km,10.2 km,11.5 km,2.5 km
+Karond Chauraha,"₹3,000 – ₹5,000","Commercial, Houses",FALSE,TRUE,TRUE,TRUE,0.5 km,1.8 km,5.8 km (Upper Lake),FALSE,9.5 km,12.5 km,11.0 km,4.5 km
+Narela Shankari,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.2 km,1.8 km,7.8 km (Lower Lake),FALSE,9.5 km,11.5 km,19.5 km,10.0 km
+Hataikheda,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.5 km,2.1 km,0.8 km (Hataikheda Lake),FALSE,10.0 km,12.0 km,20.5 km,10.5 km
+Ayodhya Nagar,"₹3,000 – ₹4,500","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.1 km,1.4 km,7.2 km (Lower Lake),FALSE,8.2 km,11.0 km,17.5 km,8.5 km
+Ratanpur,"₹2,000 – ₹3,500","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,2.8 km,2.5 km,5.0 km (Kaliasot Dam),FALSE,11.5 km,10.2 km,25.5 km,16.5 km
+Bilkhiriya,"₹1,500 – ₹3,000","Plots, Farmhouses",FALSE,TRUE,FALSE,FALSE,1.0 km,3.2 km,12.0 km (Lower Lake),FALSE,14.5 km,16.5 km,24.5 km,15.0 km
+Sukhi Sewaniya,"₹1,500 – ₹3,000","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,6.5 km,4.8 km,14.0 km (Upper Lake),FALSE,15.5 km,18.5 km,16.5 km,11.5 km
+Parwalia,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,8.5 km,6.2 km,9.0 km (Upper Lake),FALSE,18.5 km,21.5 km,6.5 km,13.5 km
+Fanda,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,9.2 km,1.5 km,10.5 km (Upper Lake),FALSE,22.5 km,25.5 km,11.5 km,17.5 km
+Intkhedi,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,11.0 km,2.0 km,12.0 km (Upper Lake),FALSE,23.0 km,26.0 km,16.0 km,18.0 km
+Eitkhedi,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,5.2 km,4.5 km,8.5 km (Upper Lake),FALSE,14.5 km,17.5 km,13.5 km,9.5 km
+Gunga,"₹1,500 – ₹2,500",Agricultural Land,FALSE,TRUE,FALSE,FALSE,12.0 km,1.0 km,22.0 km (Upper Lake),FALSE,32.0 km,35.0 km,28.0 km,27.0 km
+Berasia Road,"₹2,000 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,4.0 km,3.2 km,9.0 km (Upper Lake),FALSE,13.5 km,16.5 km,15.5 km,8.5 km
+Mubarakpur,"₹2,000 – ₹3,500","Plots, Affordable Housing",FALSE,TRUE,TRUE,FALSE,4.8 km,3.5 km,5.5 km (Upper Lake),FALSE,14.5 km,17.5 km,7.5 km,9.5 km
+Gandhinagar,"₹3,000 – ₹5,000","Independent Houses, Commercial",TRUE,TRUE,TRUE,TRUE,0.9 km,1.2 km,3.5 km (Upper Lake),FALSE,12.5 km,15.5 km,1.5 km,8.5 km
+Laukhedi,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.8 km,2.2 km,1.8 km (Upper Lake),FALSE,11.5 km,14.5 km,2.5 km,7.5 km
+Karond Bypass,"₹3,000 – ₹4,500","Commercial, Houses",FALSE,TRUE,TRUE,TRUE,2.2 km,3.1 km,6.8 km (Upper Lake),FALSE,10.5 km,13.5 km,11.5 km,5.5 km
+Bhanpur Bypass,"₹2,500 – ₹4,000","Plots, Commercial",FALSE,TRUE,FALSE,TRUE,1.8 km,2.2 km,6.8 km (Upper Lake),FALSE,10.2 km,13.2 km,13.2 km,5.2 km
+Narela,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.8 km,2.4 km,8.2 km (Lower Lake),FALSE,10.0 km,12.0 km,20.0 km,10.5 km
+Semra Kalan,"₹2,500 – ₹4,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,2.2 km,1.8 km,6.8 km (Upper Lake),FALSE,8.5 km,11.5 km,14.5 km,4.8 km
+Chhola Road,"₹3,000 – ₹5,000","Commercial, Houses",FALSE,TRUE,TRUE,TRUE,2.8 km,1.5 km,4.0 km (Upper Lake),FALSE,7.2 km,10.2 km,12.2 km,2.8 km
+Khejra,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,3.2 km,2.8 km,7.5 km (Upper Lake),FALSE,9.8 km,12.8 km,15.2 km,6.2 km
+Bairagarh Kalan,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,1.8 km,2.5 km,1.5 km (Upper Lake),FALSE,11.8 km,14.8 km,4.2 km,7.2 km
+Khajuri Sadak,"₹2,000 – ₹3,500","Plots, Affordable Housing",FALSE,TRUE,TRUE,FALSE,7.5 km,1.0 km,8.0 km (Upper Lake),FALSE,20.5 km,23.5 km,9.5 km,15.5 km
+Barkheda Pathani,"₹3,000 – ₹5,000","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,2.8 km,2.2 km,5.5 km (Lower Lake),FALSE,7.5 km,5.5 km,21.5 km,11.0 km
+Awadhpuri Ext.,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.2 km,3.0 km,7.2 km (Lower Lake),FALSE,8.5 km,10.0 km,23.0 km,12.0 km
+Kokta,"₹2,500 – ₹4,000","Transport Hub, Commercial, Plots",FALSE,TRUE,FALSE,TRUE,4.8 km,4.2 km,3.5 km (Hataikheda Lake),FALSE,12.0 km,14.0 km,21.5 km,12.5 km
+Hataikheda Ext.,"₹2,000 – ₹3,500",Plots,FALSE,TRUE,FALSE,FALSE,3.2 km,2.8 km,1.2 km (Hataikheda Lake),FALSE,10.8 km,12.8 km,21.0 km,11.3 km
+Patel Nagar Ext.,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.1 km,1.4 km,8.8 km (Lower Lake),FALSE,10.2 km,12.2 km,22.2 km,11.2 km
+Sonagiri Ext.,"₹3,500 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,2.2 km,1.5 km,6.5 km (Lower Lake),FALSE,7.5 km,10.2 km,19.2 km,8.2 km
+Jatkhedi Ext.,"₹3,000 – ₹4,500","Plots, Apartments",TRUE,TRUE,FALSE,FALSE,2.0 km,1.6 km,5.5 km (Shahpura),FALSE,9.2 km,6.5 km,24.2 km,14.2 km
+Misrod Ext.,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.5 km,2.1 km,6.0 km (Shahpura),FALSE,10.2 km,7.5 km,25.2 km,15.2 km
+Salaiya Ext.,"₹3,000 – ₹4,500","Plots, Duplexes",FALSE,TRUE,TRUE,FALSE,2.8 km,3.2 km,4.2 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.3 km,14.0 km
+Ruchi Khand,"₹3,500 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,3.2 km,2.8 km,4.5 km (Shahpura),FALSE,10.0 km,7.5 km,24.0 km,14.0 km
+Mandideep Road,"₹2,000 – ₹4,000","Industrial, Plots",FALSE,TRUE,FALSE,FALSE,1.5 km,5.5 km,11.0 km (Shahpura),FALSE,14.5 km,12.5 km,28.5 km,19.5 km
+Rohit Nagar,"₹4,000 – ₹6,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,0.8 km,0.5 km,2.2 km (Shahpura),TRUE,5.5 km,4.2 km,20.5 km,10.5 km
+Indrapuri Ext.,"₹5,000 – ₹7,500","Plots, Residential Flats",TRUE,TRUE,FALSE,FALSE,1.5 km,2.1 km,5.2 km (Lower Lake),FALSE,4.8 km,7.2 km,17.2 km,6.8 km
+Ashoka Garden,"₹4,000 – ₹6,000","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,0.9 km,1.2 km,3.8 km (Lower Lake),FALSE,3.5 km,6.5 km,15.5 km,3.5 km
+Kasturba Nagar,"₹5,500 – ₹8,000","Flats, Independent Houses",TRUE,FALSE,TRUE,FALSE,2.2 km,1.4 km,3.0 km (Lower Lake),FALSE,2.8 km,4.2 km,17.5 km,6.5 km
+Gautam Nagar,"₹4,500 – ₹7,000","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.4 km,1.8 km,3.2 km (Lower Lake),FALSE,3.2 km,6.0 km,15.0 km,3.2 km
+Rachna Nagar,"₹5,000 – ₹7,500","Flats, Plots",TRUE,TRUE,FALSE,FALSE,1.2 km,1.5 km,4.0 km (Lower Lake),FALSE,2.5 km,5.5 km,16.5 km,4.5 km
+Subhash Nagar,"₹4,000 – ₹6,000","Independent Houses, Commercial",FALSE,TRUE,TRUE,TRUE,1.1 km,1.4 km,3.5 km (Lower Lake),FALSE,2.2 km,5.2 km,16.2 km,4.2 km
+Minal Residency,"₹4,500 – ₹7,000","Duplexes, Plots",FALSE,TRUE,TRUE,FALSE,1.1 km,0.8 km,6.5 km (Lower Lake),FALSE,6.5 km,9.2 km,17.5 km,7.2 km
+Kopal,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.9 km,2.5 km,4.5 km (Kaliasot Dam),FALSE,11.0 km,9.8 km,24.5 km,15.8 km
+Bawadiya Kalan Ext,"₹4,500 – ₹7,000","Plots, Premium Apartments",TRUE,TRUE,FALSE,FALSE,1.8 km,2.6 km,3.2 km (Shahpura),TRUE,6.8 km,5.2 km,21.8 km,11.8 km
+Chuna Bhatti Ext,"₹5,000 – ₹7,500","Plots, Villas",FALSE,TRUE,TRUE,FALSE,2.2 km,2.5 km,1.8 km (Shahpura),TRUE,6.2 km,5.8 km,19.2 km,11.2 km
+Shahjahanabad,"₹3,500 – ₹5,500","Older Blocks, Plots",FALSE,TRUE,FALSE,FALSE,1.4 km,1.8 km,1.5 km (Upper Lake),FALSE,6.5 km,9.5 km,10.5 km,3.0 km
+Karond Ext.,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.1 km,3.2 km,6.8 km (Upper Lake),FALSE,10.8 km,14.2 km,12.2 km,5.8 km
+Karond Ind. Area,"₹2,500 – ₹4,000","Commercial, Industrial",FALSE,FALSE,FALSE,TRUE,2.5 km,3.5 km,7.2 km (Upper Lake),FALSE,11.2 km,14.5 km,12.5 km,6.2 km
+Karond Village,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.8 km,3.8 km,7.5 km (Upper Lake),FALSE,11.5 km,14.8 km,12.8 km,6.5 km
+Kolar Extension,"₹3,000 – ₹4,500","Plots, Duplexes",FALSE,TRUE,TRUE,FALSE,2.2 km,2.7 km,3.0 km (Kaliasot Dam),FALSE,9.2 km,8.2 km,23.2 km,14.2 km
+Bairagarh Ext.,"₹3,500 – ₹5,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,1.5 km,2.1 km,3.2 km (Upper Lake),FALSE,15.2 km,18.2 km,5.2 km,10.2 km
+Hoshangabad Rd Ext,"₹3,500 – ₹5,500","Plots, Commercial",FALSE,TRUE,FALSE,TRUE,3.2 km,2.9 km,5.2 km (Shahpura),FALSE,8.2 km,5.8 km,23.2 km,13.2 km
+Raisen Road Ext.,"₹2,500 – ₹4,000","Plots, Affordable Housing",FALSE,TRUE,FALSE,FALSE,2.8 km,3.3 km,9.0 km (Lower Lake),FALSE,11.2 km,13.2 km,22.2 km,11.8 km
+Ayodhya Bypass Ext,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.2 km,2.8 km,8.0 km (Lower Lake),FALSE,8.2 km,11.2 km,17.2 km,8.2 km
+Awadhpuri Phase 2,"₹3,000 – ₹4,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.1 km,3.0 km,7.2 km (Lower Lake),FALSE,9.0 km,10.5 km,23.5 km,12.5 km
+Katara Hills Ext.,"₹3,000 – ₹4,500","Plots, Duplexes",FALSE,TRUE,TRUE,FALSE,1.9 km,2.3 km,5.5 km (Kaliasot Dam),FALSE,11.8 km,8.2 km,26.8 km,16.8 km
+Bagmugaliya Ext.,"₹3,500 – ₹5,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.9 km,2.2 km,4.6 km (Shahpura),FALSE,8.0 km,3.6 km,23.2 km,13.2 km
+Salaiya Phase 2,"₹3,500 – ₹5,000","Plots, Duplexes",FALSE,TRUE,TRUE,FALSE,2.5 km,2.9 km,4.2 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.3 km,14.0 km
+Adampur Chhawani,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,4.8 km,3.5 km,11.5 km (Lower Lake),FALSE,11.5 km,12.8 km,25.5 km,15.5 km
+Barkhedi,"₹3,000 – ₹5,000","Independent Houses, Commercial",FALSE,TRUE,TRUE,TRUE,1.8 km,2.1 km,2.5 km (Lower Lake),FALSE,3.0 km,5.5 km,16.5 km,4.5 km
+Damkheda,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.8 km,3.2 km,3.5 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,23.2 km,14.2 km
+Hinotia,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,3.2 km,2.8 km,6.5 km (Lower Lake),FALSE,7.5 km,8.0 km,20.5 km,8.5 km
+Ibrahimpura,"₹4,000 – ₹6,000","Commercial, Older Residential",FALSE,FALSE,FALSE,TRUE,1.2 km,0.9 km,0.6 km (Lower Lake),FALSE,5.5 km,8.5 km,11.5 km,2.2 km
+Jagdishpur,"₹1,500 – ₹2,500","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,8.5 km,7.2 km,12.0 km (Upper Lake),FALSE,14.5 km,17.5 km,11.5 km,10.5 km
+Kolukhedi,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,7.2 km,5.8 km,8.0 km (Upper Lake),FALSE,17.5 km,20.5 km,5.5 km,12.5 km
+Maholi,"₹1,500 – ₹2,500","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,8.0 km,6.5 km,9.0 km (Upper Lake),FALSE,18.5 km,21.5 km,6.2 km,13.5 km
+Mendori,"₹2,000 – ₹3,500","Plots, Farmhouses",FALSE,TRUE,FALSE,FALSE,3.8 km,2.5 km,2.0 km (Kerwa Dam),FALSE,13.5 km,12.2 km,22.5 km,14.8 km
+Mendora,"₹2,000 – ₹3,500","Plots, Farmhouses",FALSE,TRUE,FALSE,FALSE,3.5 km,2.2 km,1.8 km (Kerwa Dam),FALSE,13.2 km,11.9 km,22.2 km,14.5 km
+Mugaliya Chhap,"₹1,500 – ₹2,500","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,10.5 km,1.2 km,11.5 km (Upper Lake),FALSE,22.5 km,25.5 km,11.5 km,17.5 km
+Mugaliya Kot,"₹1,500 – ₹2,500","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,11.0 km,1.5 km,12.0 km (Upper Lake),FALSE,23.0 km,26.0 km,12.0 km,18.0 km
+Nabibagh,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.9 km,3.8 km,7.5 km (Upper Lake),FALSE,10.5 km,13.5 km,12.5 km,6.2 km
+Pipalner,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,3.5 km,2.8 km,3.0 km (Upper Lake),FALSE,13.2 km,16.2 km,4.2 km,9.2 km
+Prempura,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,3.8 km,2.5 km,0.8 km (Upper Lake),FALSE,6.5 km,8.2 km,14.5 km,6.2 km
+Samardha,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,4.5 km,4.2 km,6.5 km (Shahpura),FALSE,12.5 km,10.0 km,27.5 km,17.5 km
+Sankhedi,"₹2,500 – ₹4,000","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,1.8 km,2.2 km,2.2 km (Kaliasot Dam),FALSE,8.2 km,7.0 km,22.2 km,13.2 km
+Sikandrabad,"₹2,000 – ₹3,500","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,9.5 km,8.0 km,10.0 km (Upper Lake),FALSE,21.5 km,24.5 km,10.5 km,16.5 km
+Taraisevania,"₹1,500 – ₹2,500","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,12.5 km,1.0 km,13.5 km (Upper Lake),FALSE,24.5 km,27.5 km,14.5 km,19.5 km
+Tumda,"₹1,500 – ₹2,500","Agricultural Land, Plots",FALSE,TRUE,FALSE,FALSE,13.0 km,1.2 km,14.0 km (Upper Lake),FALSE,25.0 km,28.0 km,15.0 km,20.0 km
+Lalghati,"₹5,000 – ₹8,000","Commercial, Flats",TRUE,FALSE,FALSE,TRUE,1.1 km,1.4 km,1.0 km (Upper Lake),TRUE,11.0 km,14.0 km,4.0 km,6.8 km
+Char Imli,"₹15,000 – ₹25,000","Luxury Villas, Bungalows",FALSE,FALSE,TRUE,FALSE,1.6 km,1.1 km,2.0 km (Shahpura),TRUE (Villas Only),3.2 km,4.5 km,16.5 km,6.5 km
+Tulsi Nagar,"₹8,000 – ₹12,000","Residential Flats, Houses",TRUE,FALSE,TRUE,FALSE,1.1 km,1.0 km,2.2 km (Lower Lake),FALSE,1.8 km,4.8 km,15.5 km,5.5 km
+Shivaji Nagar,"₹9,000 – ₹13,000",Premium Residential,TRUE,FALSE,TRUE,FALSE,1.4 km,1.3 km,2.4 km (Lower Lake),TRUE,1.0 km,4.0 km,16.0 km,4.8 km
+Professor Colony,"₹8,000 – ₹12,000",Independent Houses,TRUE,FALSE,TRUE,FALSE,1.2 km,0.9 km,0.4 km (Upper Lake),TRUE,5.5 km,8.5 km,12.5 km,3.8 km
+Panchsheel Nagar,"₹4,000 – ₹6,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.9 km,1.6 km,1.2 km (Shahpura),FALSE,3.8 km,5.5 km,16.2 km,6.2 km
+Sanjay Nagar,"₹3,000 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,2.5 km,2.1 km,1.8 km (Upper Lake),FALSE,7.5 km,10.5 km,11.5 km,3.8 km
+Malviya Nagar,"₹9,000 – ₹14,000","Commercial, Flats",TRUE,FALSE,FALSE,TRUE,1.5 km,0.8 km,2.0 km (Lower Lake),FALSE,1.5 km,4.5 km,16.0 km,5.2 km
+South TT Nagar,"₹8,000 – ₹12,000","Flats, Commercial Spaces",TRUE,FALSE,FALSE,TRUE,0.8 km,0.5 km,1.9 km (Lower Lake),FALSE,2.8 km,5.8 km,15.5 km,5.5 km
+North TT Nagar,"₹8,000 – ₹12,000","Flats, Commercial Spaces",TRUE,FALSE,FALSE,TRUE,0.7 km,0.8 km,1.6 km (Lower Lake),FALSE,3.2 km,6.2 km,15.0 km,5.0 km
+Halalpura,"₹3,500 – ₹5,500","Commercial, Flats",TRUE,FALSE,FALSE,TRUE,1.4 km,1.8 km,1.5 km (Upper Lake),FALSE,12.0 km,15.0 km,3.0 km,7.2 km
+Gufa Mandir Road,"₹4,000 – ₹6,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,0.9 km,1.2 km,1.2 km (Upper Lake),FALSE,11.5 km,14.5 km,3.5 km,7.5 km
+Jinsi,"₹3,000 – ₹5,000","Older Blocks, Commercial",FALSE,TRUE,FALSE,TRUE,1.1 km,1.5 km,1.2 km (Lower Lake),FALSE,4.2 km,7.2 km,14.5 km,3.0 km
+Bogda Pul,"₹3,000 – ₹5,000","Commercial, Flats",TRUE,FALSE,FALSE,TRUE,1.5 km,1.9 km,1.8 km (Lower Lake),FALSE,2.8 km,5.8 km,15.8 km,3.2 km
+Aishbagh,"₹3,000 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.8 km,2.2 km,2.5 km (Lower Lake),FALSE,3.5 km,6.5 km,16.5 km,2.8 km
+Bagh Umrao Dulha,"₹2,500 – ₹4,500",Independent Houses,FALSE,TRUE,TRUE,FALSE,2.9 km,2.4 km,2.0 km (Lower Lake),FALSE,5.5 km,8.5 km,15.5 km,2.5 km
+Bagh Farhat Afza,"₹2,500 – ₹4,500",Independent Houses,FALSE,TRUE,TRUE,FALSE,3.2 km,2.8 km,2.2 km (Lower Lake),FALSE,5.8 km,8.8 km,15.8 km,2.8 km
+Chandbad,"₹3,000 – ₹5,000","Commercial, Flats",TRUE,FALSE,FALSE,TRUE,1.5 km,1.1 km,3.2 km (Lower Lake),FALSE,4.2 km,7.2 km,14.5 km,2.2 km
+Chhola Mandir,"₹3,000 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,3.5 km,2.4 km,4.8 km (Upper Lake),FALSE,7.8 km,10.8 km,12.5 km,2.8 km
+Sindhi Colony,"₹4,000 – ₹7,000","Flats, Commercial",TRUE,FALSE,FALSE,TRUE,2.2 km,1.8 km,2.5 km (Upper Lake),FALSE,7.8 km,10.8 km,11.5 km,2.5 km
+Berasia,"₹1,500 – ₹3,000","Plots, Agricultural Land",FALSE,TRUE,FALSE,FALSE,1.2 km,0.8 km,38.0 km (Upper Lake),FALSE,43.0 km,46.0 km,35.0 km,38.0 km
+Kazi Camp,"₹3,000 – ₹5,000",Independent Houses,FALSE,TRUE,TRUE,FALSE,1.8 km,1.4 km,2.2 km (Upper Lake),FALSE,6.8 km,9.8 km,11.5 km,2.2 km
+Bairagarh Khurd,"₹2,000 – ₹3,500","Plots, Independent Houses",FALSE,TRUE,TRUE,FALSE,2.5 km,3.2 km,2.0 km (Upper Lake),FALSE,13.5 km,16.5 km,3.8 km,8.8 km
+Kohefiza Ext.,"₹4,500 – ₹6,500",Premium Apartments,TRUE,FALSE,FALSE,FALSE,2.8 km,1.5 km,1.5 km (Upper Lake),TRUE,11.0 km,14.0 km,6.8 km,6.0 km
+Bairagarh Kalan Ext,"₹2,000 – ₹3,500",Plots,FALSE,TRUE,FALSE,FALSE,2.2 km,2.9 km,1.8 km (Upper Lake),FALSE,12.2 km,15.2 km,4.5 km,7.5 km
+Gandhi Nagar Ext.,"₹2,500 – ₹4,500","Independent Houses, Plots",FALSE,TRUE,TRUE,FALSE,1.5 km,1.9 km,4.2 km (Upper Lake),FALSE,13.0 km,16.0 km,1.8 km,9.0 km
+Dwarka Nagar,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,3.8 km (Lower Lake),FALSE,5.5 km,8.5 km,14.5 km,1.8 km
+Railway Col. (Nish),"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,0.5 km,0.4 km,5.0 km (Upper Lake),FALSE,7.0 km,10.0 km,11.5 km,2.2 km
+Amrawad Khurd,"₹2,500 – ₹4,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.2 km,2.5 km,4.8 km (Shahpura),FALSE,8.5 km,7.2 km,22.5 km,12.5 km
+Trilanga,"₹3,200 – ₹6,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,0.6 km,0.9 km,1.2 km (Shahpura),TRUE,5.2 km,4.2 km,21.2 km,10.2 km
+Nehru Nagar,"₹3,100 – ₹5,200","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.5 km,1.1 km,2.2 km (Kaliasot Outlet),FALSE,5.8 km,6.8 km,16.5 km,8.5 km
+Shastri Nagar,"₹2,800 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,2.1 km (Lower Lake),FALSE,3.8 km,6.2 km,16.8 km,6.8 km
+Rajharsh Colony,"₹2,200 – ₹4,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,0.8 km,1.2 km,2.5 km (Kaliasot Dam),FALSE,8.5 km,7.5 km,22.5 km,13.5 km
+Panchwati Colony,"₹2,100 – ₹3,800","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.9 km,2.2 km,2.5 km (Upper Lake),FALSE,12.2 km,15.2 km,2.0 km,8.2 km
+Amaltas Gold Zone,"₹2,800 – ₹5,000","Villa, Land",FALSE,TRUE,TRUE,FALSE,2.8 km,3.2 km,3.5 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,23.2 km,14.2 km
+Bagli Village,"₹1,800 – ₹3,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.2 km,2.8 km,3.8 km (Shahpura),FALSE,7.2 km,5.8 km,22.2 km,12.2 km
+Kalyanpur,"₹2,000 – ₹3,600","Flat, Land, Apartment",TRUE,TRUE,FALSE,FALSE,2.5 km,2.9 km,3.2 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Dehriya Kalan,"₹1,900 – ₹3,400","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.2 km,3.8 km,4.2 km (Kaliasot Dam),FALSE,9.5 km,8.3 km,24.5 km,14.5 km
+Thua Kheda,"₹2,200 – ₹3,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,2.8 km,3.4 km,3.8 km (Kaliasot Dam),FALSE,9.1 km,7.9 km,24.1 km,14.1 km
+Barkhedi Kalan,"₹2,800 – ₹4,900","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.2 km,2.1 km,1.5 km (Kerwa Dam),FALSE,11.5 km,10.2 km,20.5 km,12.8 km
+Bhadbhada Corridor,"₹3,500 – ₹6,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.2 km,2.4 km,0.5 km (Kaliasot Lake),TRUE,9.0 km,7.8 km,18.0 km,10.5 km
+Chinar Fortune Zone,"₹3,200 – ₹5,800","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Bharat Nagar,"₹2,900 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.9 km,2.5 km (Shahpura),FALSE,3.2 km,4.2 km,18.2 km,8.2 km
+Pratap Nagar,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.2 km,2.8 km (Shahpura),FALSE,3.5 km,4.5 km,18.5 km,8.5 km
+Peer Gate Area,"₹3,500 – ₹5,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,0.8 km,0.5 km,0.5 km (Lower Lake),FALSE,5.2 km,8.2 km,11.2 km,1.8 km
+Sarai Jumerati,"₹3,200 – ₹5,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.1 km,0.8 km,0.8 km (Lower Lake),FALSE,5.5 km,8.5 km,11.5 km,2.1 km
+Lakherapura,"₹3,400 – ₹5,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,0.9 km,0.6 km,0.7 km (Lower Lake),FALSE,5.3 km,8.3 km,11.3 km,2.0 km
+Lake View Colony,"₹3,800 – ₹6,500","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,1.9 km,1.2 km,0.3 km (Upper Lake),TRUE,6.8 km,9.8 km,12.8 km,4.1 km
+Nur Mahal Road,"₹3,000 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.5 km,1.1 km,1.1 km (Upper Lake),FALSE,6.0 km,9.0 km,12.0 km,3.2 km
+Naveen Nagar,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.1 km,4.2 km (Lower Lake),FALSE,4.5 km,7.5 km,16.5 km,4.5 km
+Mayur Vihar,"₹2,600 – ₹4,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.8 km,2.4 km,5.8 km (Shahpura),FALSE,10.5 km,7.8 km,25.5 km,15.5 km
+Shaheed Nagar,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,2.5 km,4.6 km (Lower Lake),FALSE,4.8 km,7.8 km,16.8 km,4.8 km
+Khatikpura,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,1.6 km (Upper Lake),FALSE,6.2 km,9.2 km,12.2 km,3.5 km
+Gurunanak Pura,"₹2,700 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.7 km,2.1 km (Upper Lake),FALSE,6.5 km,9.5 km,12.5 km,3.8 km
+Hazrat Nizamuddin,"₹2,900 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.8 km,4.8 km (Lower Lake),FALSE,5.1 km,8.1 km,17.1 km,5.1 km
+Bhojpur Road Outer,"₹2,000 – ₹3,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,4.8 km,4.2 km,6.5 km (Shahpura),FALSE,11.5 km,9.2 km,26.5 km,16.5 km
+Arera Hills (Inst),"₹4,500 – ₹8,000","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,1.5 km,1.1 km,1.5 km (Lower Lake),TRUE,1.5 km,4.5 km,14.5 km,4.5 km
+Malviya Nagar Blk B,"₹4,000 – ₹7,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,0.7 km,1.9 km (Lower Lake),FALSE,1.4 km,4.4 km,15.9 km,5.1 km
+Char Imli Club Rd,"₹6,000 – ₹11,000",Villa,FALSE,FALSE,TRUE,FALSE,1.4 km,0.9 km,1.8 km (Shahpura),TRUE (Villas Only),3.0 km,4.3 km,16.3 km,6.3 km
+Riviera Town Sector,"₹4,200 – ₹7,500","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.4 km,2.1 km,0.8 km (Shahpura),TRUE,4.2 km,4.5 km,19.2 km,9.2 km
+Vidya Nagar,"₹2,800 – ₹4,900","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.2 km,1.8 km,2.0 km (Shahpura),FALSE,4.0 km,3.2 km,19.0 km,9.0 km
+Sriram Nagar,"₹2,400 – ₹3,900","Flat, Land, Apartment",TRUE,TRUE,FALSE,FALSE,2.8 km,2.4 km,7.8 km (Lower Lake),FALSE,9.5 km,11.5 km,19.5 km,10.0 km
+Khajuri Sadak Byp,"₹1,500 – ₹2,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,7.8 km,1.4 km,8.3 km (Upper Lake),FALSE,20.8 km,23.8 km,9.8 km,15.8 km
+Abbas Nagar,"₹2,300 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.2 km,2.5 km,4.8 km (Upper Lake),FALSE,12.8 km,15.8 km,2.2 km,8.8 km
+Badwai,"₹2,200 – ₹4,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.2 km,2.8 km,7.2 km (Upper Lake),FALSE,11.5 km,14.5 km,13.5 km,6.5 km
+Karond Mandi Enc.,"₹2,400 – ₹3,800","Flat, Land, Apartment",TRUE,TRUE,FALSE,FALSE,1.9 km,2.9 km,6.4 km (Upper Lake),FALSE,9.8 km,12.8 km,11.2 km,4.8 km
+Singarcholi,"₹2,500 – ₹4,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.5 km,2.2 km,1.2 km (Upper Lake),FALSE,10.5 km,13.5 km,3.5 km,6.5 km
+Data Colony,"₹2,600 – ₹4,600","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.1 km,1.8 km,1.6 km (Upper Lake),FALSE,10.1 km,13.1 km,3.1 km,6.1 km
+Bangrasia Corridor,"₹1,800 – ₹3,200","Villa, Land",FALSE,TRUE,TRUE,TRUE,1.1 km,5.8 km,12.0 km (Kaliasot Dam),FALSE,19.5 km,17.5 km,33.5 km,24.5 km
+Lambakheda Sector,"₹2,000 – ₹3,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,4.8 km,4.1 km,9.0 km (Upper Lake),FALSE,13.5 km,16.5 km,15.5 km,8.5 km
+Gondermau,"₹2,200 – ₹3,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.8 km,3.1 km,4.0 km (Upper Lake),FALSE,12.5 km,15.5 km,4.5 km,7.5 km
+Bhauri High-Tech,"₹2,100 – ₹3,800","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.2 km,4.5 km,4.5 km (Upper Lake),FALSE,16.5 km,19.5 km,8.5 km,11.5 km
+Arhedi Village Seg,"₹1,600 – ₹2,900",Villa,FALSE,FALSE,TRUE,FALSE,5.5 km,4.8 km,6.0 km (Upper Lake),FALSE,15.5 km,18.5 km,5.5 km,10.5 km
+Indus Towne Sector,"₹2,200 – ₹3,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.5 km,3.2 km,5.5 km (Shahpura),FALSE,10.5 km,8.2 km,25.5 km,15.5 km
+11th Mile Enclave,"₹2,500 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.8 km,2.5 km,5.0 km (Shahpura),FALSE,9.8 km,7.5 km,24.8 km,14.8 km
+Kotra Sultanabad,"₹3,000 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.5 km,1.8 km (Upper Lake),FALSE,5.2 km,6.2 km,15.8 km,7.8 km
+Shyampur Fringe,"₹1,500 – ₹2,700",Villa,FALSE,FALSE,TRUE,FALSE,8.5 km,7.2 km,9.5 km (Upper Lake),FALSE,18.5 km,21.5 km,9.5 km,13.5 km
+Pipaliya Pende,"₹2,400 – ₹4,200","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.8 km,3.2 km,4.5 km (Kaliasot Dam),FALSE,11.5 km,10.2 km,25.5 km,16.5 km
+Municipal Emp Col,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,4.0 km,3.2 km,19.0 km,9.0 km
+Friends Colony,"₹2,700 – ₹4,300","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,2.1 km,2.4 km (Shahpura),FALSE,4.2 km,3.4 km,19.2 km,9.2 km
+Azad Market Sector,"₹3,200 – ₹5,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.1 km,1.2 km (Upper Lake),FALSE,5.8 km,8.8 km,11.8 km,2.1 km
+Padmanabh Nagar,"₹2,900 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.5 km,1.8 km,4.2 km (Lower Lake),FALSE,4.2 km,7.2 km,16.2 km,4.2 km
+Saibaba Colony,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.1 km,4.5 km (Lower Lake),FALSE,4.5 km,7.5 km,16.5 km,4.5 km
+Barkheda End Blk,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.1 km,5.2 km (Lower Lake),FALSE,7.5 km,5.5 km,21.5 km,11.0 km
+Nirupam Enclave,"₹2,600 – ₹4,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.6 km,2.3 km,2.4 km (Shahpura),FALSE,4.5 km,3.5 km,19.5 km,9.5 km
+Rishi Puram,"₹2,400 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.8 km,2.4 km,3.2 km (Kaliasot Dam),FALSE,9.1 km,7.9 km,24.1 km,14.1 km
+Aashima Royal Belt,"₹2,800 – ₹4,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.1 km,1.5 km,4.6 km (Shahpura),FALSE,8.1 km,5.8 km,23.1 km,13.1 km
+British Park,"₹3,000 – ₹5,500","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.9 km,3.2 km,5.2 km (Shahpura),FALSE,9.9 km,7.6 km,24.9 km,14.9 km
+Santa Fe Enclave,"₹2,700 – ₹4,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.5 km,2.8 km,4.9 km (Shahpura),FALSE,9.5 km,7.2 km,24.5 km,14.5 km
+Sage Suncity,"₹2,500 – ₹4,300","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.2 km,2.8 km,4.2 km (Kaliasot Dam),FALSE,10.5 km,9.2 km,24.5 km,15.5 km
+Valencia Luxury,"₹3,200 – ₹5,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.5 km,2.1 km,3.5 km (Kaliasot Dam),TRUE,8.5 km,7.2 km,23.5 km,13.5 km
+Grandeur Heights,"₹3,000 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.9 km,4.5 km (Shahpura),FALSE,8.2 km,5.9 km,23.2 km,13.2 km
+Shaligram Strip,"₹3,200 – ₹5,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.9 km,1.5 km,4.1 km (Shahpura),FALSE,7.9 km,5.6 km,22.9 km,12.9 km
+Titania Phase Line,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.1 km,4.7 km (Shahpura),FALSE,8.4 km,6.1 km,23.4 km,13.4 km
+Orchid Park Belt,"₹2,600 – ₹4,400","Villa, Land",FALSE,TRUE,TRUE,FALSE,2.9 km,2.5 km,3.4 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,23.2 km,14.2 km
+Amar Vatika Phase,"₹2,200 – ₹3,800",Land,FALSE,TRUE,FALSE,FALSE,3.5 km,3.1 km,4.0 km (Kaliasot Dam),FALSE,9.8 km,8.6 km,23.8 km,14.8 km
+Abhinav Paras,"₹2,600 – ₹4,300","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.8 km,1.4 km,2.5 km (Kaliasot Dam),FALSE,8.1 km,6.9 km,23.1 km,13.1 km
+BDA Aerocity B,"₹2,800 – ₹5,000","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.2 km,2.5 km,4.8 km (Upper Lake),FALSE,12.8 km,15.8 km,2.2 km,8.8 km
+BHEL Sangam,"₹2,400 – ₹3,900",Villa,FALSE,FALSE,TRUE,FALSE,3.2 km,2.8 km,6.5 km (Lower Lake),FALSE,7.5 km,8.0 km,20.5 km,8.5 km
+Aradhana Nagar,"₹2,900 – ₹4,800","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.5 km,2.1 km,2.2 km (Shahpura),FALSE,3.5 km,2.5 km,18.5 km,8.5 km
+Ahir Mohalla,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.1 km,1.2 km (Upper Lake),FALSE,5.8 km,8.8 km,11.8 km,2.1 km
+Itwara Bazaar,"₹3,000 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.1 km,0.8 km,0.9 km (Lower Lake),FALSE,5.5 km,8.5 km,11.5 km,1.8 km
+Lotus Hospital,"₹2,700 – ₹4,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.5 km,1.1 km,6.8 km (Lower Lake),FALSE,9.5 km,11.5 km,19.5 km,10.0 km
+Semra Mandi,"₹2,300 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,6.2 km (Upper Lake),FALSE,8.2 km,11.2 km,14.2 km,4.5 km
+Anupam Kasturi,"₹2,400 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.9 km,2.5 km,7.0 km (Lower Lake),FALSE,8.5 km,10.0 km,23.0 km,12.0 km
+Priya Darshani,"₹3,000 – ₹5,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,2.1 km (Shahpura),FALSE,3.8 km,2.8 km,18.8 km,8.8 km
+Old Subhash Nagar,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.2 km,1.5 km,3.6 km (Lower Lake),FALSE,2.2 km,5.2 km,16.2 km,4.2 km
+Ram Nagar,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,3.9 km (Lower Lake),FALSE,2.5 km,5.5 km,16.5 km,4.5 km
+Nishatpura Cabin,"₹2,200 – ₹3,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.2 km,0.9 km,5.4 km (Upper Lake),FALSE,7.2 km,10.2 km,11.5 km,2.5 km
+Karond Mandi Rd B,"₹2,400 – ₹3,900","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,2.1 km,3.1 km,6.6 km (Upper Lake),FALSE,9.8 km,12.8 km,11.2 km,4.8 km
+Badwai Station,"₹2,100 – ₹3,500",Villa,FALSE,FALSE,TRUE,FALSE,3.5 km,3.1 km,7.5 km (Upper Lake),FALSE,11.8 km,14.8 km,13.8 km,6.8 km
+Abbas Nagar Ph 3,"₹2,400 – ₹4,400","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.5 km,2.8 km,5.1 km (Upper Lake),FALSE,13.1 km,16.1 km,2.5 km,9.1 km
+Khajuri Junction,"₹1,600 – ₹2,800",Villa,FALSE,FALSE,TRUE,FALSE,7.8 km,1.2 km,8.2 km (Upper Lake),FALSE,20.5 km,23.5 km,9.5 km,15.5 km
+Sriram Nagar Ext,"₹2,300 – ₹4,000","Flat, Villa, Apartment",TRUE,FALSE,TRUE,FALSE,3.1 km,2.7 km,8.1 km (Lower Lake),FALSE,9.8 km,11.8 km,19.8 km,10.3 km
+Vidya Nagar Sec C,"₹2,700 – ₹4,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,2.0 km,2.2 km (Shahpura),FALSE,4.2 km,3.4 km,19.2 km,9.2 km
+Riviera Town Ph 2,"₹4,000 – ₹7,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.6 km,2.3 km,0.9 km (Shahpura),TRUE,4.5 km,4.8 km,19.5 km,9.5 km
+Char Imli Nursery,"₹5,500 – ₹9,500",Land,FALSE,TRUE,FALSE,FALSE,1.5 km,1.0 km,1.9 km (Shahpura),FALSE,3.2 km,4.5 km,16.5 km,6.5 km
+Malviya Nagar Blk C,"₹4,000 – ₹6,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,0.9 km,2.1 km (Lower Lake),FALSE,1.6 km,4.6 km,16.1 km,5.3 km
+Arera Hills Link,"₹4,200 – ₹7,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,1.2 km,1.6 km (Lower Lake),FALSE,1.6 km,4.6 km,14.6 km,4.6 km
+Bhojpur Outer Ext,"₹1,800 – ₹3,400",Villa,FALSE,FALSE,TRUE,FALSE,5.2 km,4.6 km,6.9 km (Shahpura),FALSE,11.9 km,9.6 km,26.9 km,16.9 km
+Hazrat Niz. Sec B,"₹2,800 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,3.0 km,5.0 km (Lower Lake),FALSE,5.3 km,8.3 km,17.3 km,5.3 km
+Gurunanak Blk Y,"₹2,600 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.3 km,1.9 km,2.3 km (Upper Lake),FALSE,6.7 km,9.7 km,12.7 km,4.0 km
+Khatikpura Int.,"₹2,700 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.9 km,1.5 km,1.7 km (Upper Lake),FALSE,6.3 km,9.3 km,12.3 km,3.6 km
+Shaheed Pocket,"₹2,300 – ₹3,700","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.3 km,2.7 km,4.8 km (Lower Lake),FALSE,5.0 km,8.0 km,17.0 km,5.0 km
+Mayur Vihar Blk B,"₹2,500 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.0 km,2.6 km,6.0 km (Shahpura),FALSE,10.7 km,8.0 km,25.7 km,15.7 km
+Naveen Nagar Ext,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,2.3 km,4.4 km (Lower Lake),FALSE,4.7 km,7.7 km,16.7 km,4.7 km
+Nur Mahal Int.,"₹2,900 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,1.2 km,1.2 km (Upper Lake),FALSE,6.1 km,9.1 km,12.1 km,3.3 km
+Lake View Blk C,"₹3,600 – ₹6,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,1.4 km,0.4 km (Upper Lake),TRUE,7.0 km,10.0 km,13.0 km,4.3 km
+Lakherapura Mkt,"₹3,300 – ₹5,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.0 km,0.7 km,0.8 km (Lower Lake),FALSE,5.4 km,8.4 km,11.4 km,2.1 km
+Sarai Jumerati Int,"₹3,100 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.2 km,0.9 km,0.9 km (Lower Lake),FALSE,5.6 km,8.6 km,11.6 km,2.2 km
+Peer Gate Old Blks,"₹3,400 – ₹5,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,0.9 km,0.6 km,0.6 km (Lower Lake),FALSE,5.3 km,8.3 km,11.3 km,2.0 km
+Pratap Nagar Blk E,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,2.3 km,2.9 km (Shahpura),FALSE,3.6 km,4.6 km,18.6 km,8.6 km
+Bharat Nagar Ext,"₹2,800 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.3 km,2.0 km,2.6 km (Shahpura),FALSE,3.3 km,4.3 km,18.3 km,8.3 km
+Fortune Blk D,"₹3,000 – ₹5,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.6 km,2.0 km,4.4 km (Shahpura),TRUE,7.2 km,5.7 km,21.7 km,12.2 km
+Bhadbhada Corr. B,"₹3,400 – ₹6,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.4 km,2.6 km,0.7 km (Kaliasot Lake),TRUE,9.2 km,8.0 km,18.2 km,10.7 km
+Barkhedi Kalan S2,"₹2,700 – ₹4,700","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.4 km,2.3 km,1.7 km (Kerwa Dam),FALSE,11.7 km,10.4 km,20.7 km,13.0 km
+Thua Kheda Blk C,"₹2,100 – ₹3,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.0 km,3.6 km,4.0 km (Kaliasot Dam),FALSE,9.3 km,8.1 km,24.3 km,14.3 km
+Dehriya Kalan Out,"₹1,800 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.4 km,4.0 km,4.4 km (Kaliasot Dam),FALSE,9.8 km,8.6 km,24.8 km,14.8 km
+Kalyanpur Sec,"₹2,100 – ₹3,800","Flat, Villa",TRUE,FALSE,TRUE,FALSE,2.7 km,3.1 km,3.4 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.0 km,14.0 km
+Bagli Village Z2,"₹1,700 – ₹3,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.4 km,3.0 km,4.0 km (Shahpura),FALSE,7.4 km,6.0 km,22.4 km,12.4 km
+Amaltas Gold Sec B,"₹2,700 – ₹4,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.0 km,3.4 km,3.7 km (Kaliasot Dam),FALSE,9.4 km,8.2 km,23.4 km,14.4 km
+Panchwati Pocket C,"₹2,000 – ₹3,600","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.1 km,2.4 km,2.7 km (Upper Lake),FALSE,12.4 km,15.4 km,2.2 km,8.4 km
+Rajharsh Blk D,"₹2,100 – ₹3,900","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.0 km,1.4 km,2.7 km (Kaliasot Dam),FALSE,8.7 km,7.7 km,22.7 km,13.7 km
+Shastri Nagar Ext,"₹2,700 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,1.6 km,2.3 km (Lower Lake),FALSE,4.0 km,6.4 km,17.0 km,7.0 km
+Nehru Nagar Sec C,"₹3,000 – ₹4,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.7 km,1.3 km,2.4 km (Kaliasot Outlet),FALSE,6.0 km,7.0 km,16.7 km,8.7 km
+Trilanga Ext.,"₹3,100 – ₹5,800","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,0.8 km,1.1 km,1.4 km (Shahpura),TRUE,5.4 km,4.4 km,21.4 km,10.4 km
+Amrawad Blk B,"₹2,400 – ₹4,300","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.4 km,2.7 km,5.0 km (Shahpura),FALSE,8.7 km,7.4 km,22.7 km,12.7 km
+Railway Blk X,"₹2,300 – ₹3,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,0.7 km,0.6 km,5.2 km (Upper Lake),FALSE,7.2 km,10.2 km,11.7 km,2.4 km
+Dwarka Back Line,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,1.6 km,4.0 km (Lower Lake),FALSE,5.7 km,8.7 km,14.7 km,2.0 km
+Karond Village Out,"₹2,000 – ₹3,400",Villa,FALSE,FALSE,TRUE,FALSE,3.0 km,4.0 km,7.7 km (Upper Lake),FALSE,11.7 km,15.0 km,13.0 km,6.7 km
+Nishatpura Yard,"₹2,100 – ₹3,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.1 km,5.4 km (Upper Lake),FALSE,7.5 km,10.5 km,11.8 km,2.8 km
+Nabibagh Farm,"₹2,200 – ₹3,600",Villa,FALSE,FALSE,TRUE,FALSE,3.1 km,4.0 km,7.7 km (Upper Lake),FALSE,10.7 km,13.7 km,12.7 km,6.4 km
+Prempura Lake Line,"₹3,000 – ₹5,500","Villa, Land",FALSE,TRUE,TRUE,FALSE,4.0 km,2.7 km,0.6 km (Upper Lake),FALSE,6.7 km,8.4 km,14.7 km,6.4 km
+Mendori Rd Blks,"₹1,800 – ₹3,200","Villa, Land",FALSE,TRUE,TRUE,FALSE,4.0 km,2.7 km,2.2 km (Kerwa Dam),FALSE,13.7 km,12.4 km,22.7 km,15.0 km
+Ratibad College,"₹1,900 – ₹3,400","Villa, Land",FALSE,TRUE,TRUE,FALSE,0.7 km,1.3 km,2.7 km (Kerwa Dam),FALSE,14.2 km,13.7 km,21.2 km,15.2 km
+Neelbad Ext Blk,"₹2,400 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.4 km,2.2 km,3.2 km (Kaliasot Dam),FALSE,11.7 km,11.2 km,20.7 km,13.2 km
+Kokta Byp Sec 2,"₹1,600 – ₹3,000",Villa,FALSE,FALSE,TRUE,FALSE,5.0 km,4.4 km,3.7 km (Hataikheda Lake),FALSE,12.2 km,14.2 km,21.7 km,12.7 km
+Bilkhiriya Link,"₹1,500 – ₹2,800",Villa,FALSE,FALSE,TRUE,FALSE,1.2 km,3.4 km,12.2 km (Lower Lake),FALSE,14.7 km,16.7 km,24.7 km,15.2 km
+Sukhi Sewaniya Int,"₹1,400 – ₹2,600",Villa,FALSE,FALSE,TRUE,FALSE,6.7 km,5.0 km,14.2 km (Upper Lake),FALSE,15.7 km,18.7 km,16.7 km,11.7 km
+Mubarakpur Old,"₹1,600 – ₹3,000",Villa,FALSE,FALSE,TRUE,FALSE,5.0 km,3.7 km,5.7 km (Upper Lake),FALSE,14.7 km,17.7 km,7.7 km,9.7 km
+Gandhi Nagar Core,"₹2,200 – ₹4,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.1 km,1.4 km,3.7 km (Upper Lake),FALSE,12.7 km,15.7 km,1.7 km,8.7 km
+Bairagarh Lalghati,"₹2,600 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,2.1 km,2.0 km (Upper Lake),FALSE,12.2 km,15.2 km,4.2 km,7.2 km
+Khajuri Old Byp,"₹1,400 – ₹2,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,7.7 km,1.2 km,8.2 km (Upper Lake),FALSE,20.7 km,23.7 km,9.7 km,15.7 km
+Awadhpuri Outer C,"₹2,500 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,3.2 km,7.4 km (Lower Lake),FALSE,8.7 km,10.2 km,23.2 km,12.2 km
+Khajuri Kalan Ind,"₹1,800 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,2.1 km,1.6 km,8.7 km (Lower Lake),FALSE,10.7 km,13.2 km,21.7 km,11.7 km
+Sonagiri Sec D,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.7 km,6.7 km (Lower Lake),FALSE,7.7 km,10.4 km,19.4 km,8.4 km
+Piplani Sec C,"₹2,700 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,1.4 km,6.0 km (Lower Lake),FALSE,6.0 km,8.7 km,18.2 km,7.2 km
+Anand Nagar Outer,"₹2,300 – ₹3,900","Flat, Villa",TRUE,FALSE,TRUE,FALSE,1.3 km,1.7 km,7.7 km (Lower Lake),FALSE,8.7 km,10.7 km,21.2 km,9.7 km
+Bagroda Ind. Corr,"₹1,500 – ₹2,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,5.2 km,4.5 km,12.5 km (Lower Lake),FALSE,16.5 km,14.5 km,30.5 km,21.5 km
+Barkheda Sec H,"₹2,500 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,2.4 km,5.7 km (Lower Lake),FALSE,7.7 km,5.7 km,21.7 km,11.2 km
+Rapadia Village,"₹1,600 – ₹2,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,4.8 km,4.5 km,7.0 km (Shahpura),FALSE,11.8 km,8.2 km,26.8 km,16.8 km
+Spring Valley,"₹2,600 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.8 km,3.2 km,3.5 km (Kaliasot Dam),TRUE,8.5 km,7.2 km,23.5 km,13.5 km
+Aakriti Eco City,"₹3,000 – ₹5,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,1.8 km,4.0 km (Shahpura),TRUE,6.8 km,5.2 km,21.8 km,11.8 km
+Canal Kinship,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.4 km,4.2 km (Kaliasot Dam),FALSE,9.3 km,8.1 km,24.3 km,14.3 km
+Pallavi Nagar,"₹2,500 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.1 km,2.5 km,3.2 km (Kaliasot Dam),FALSE,8.2 km,7.0 km,23.2 km,13.2 km
+Amarnath Colony,"₹2,300 – ₹3,700","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,2.8 km,3.5 km (Kaliasot Dam),FALSE,8.5 km,7.3 km,23.5 km,13.5 km
+Sai Vihar Colony,"₹2,400 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.6 km,3.0 km,3.7 km (Kaliasot Dam),FALSE,8.7 km,7.5 km,23.7 km,13.7 km
+Janki Nagar,"₹2,300 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.1 km,1.5 km,2.2 km (Kaliasot Dam),FALSE,7.2 km,6.0 km,22.2 km,12.2 km
+ISRO Colony,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.2 km,1.5 km,4.2 km (Shahpura),FALSE,6.0 km,4.6 km,21.0 km,11.0 km
+Rajat Nagar,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.9 km (Kaliasot Dam),FALSE,8.9 km,7.7 km,23.9 km,13.9 km
+Mohan Nagar,"₹2,500 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.5 km,2.9 km,3.6 km (Kaliasot Dam),FALSE,8.6 km,7.4 km,23.6 km,13.6 km
+Top Residency,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.1 km,1.8 km (Shahpura),FALSE,4.2 km,3.9 km,19.2 km,9.2 km
+Raisina Zone,"₹2,700 – ₹4,400","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,3.9 km,3.1 km,18.9 km,8.9 km
+Housing Board Karond,"₹2,200 – ₹3,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.8 km,6.4 km (Upper Lake),FALSE,10.2 km,13.2 km,11.8 km,5.2 km
+Ibrahimganj Int.,"₹3,000 – ₹4,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.5 km,1.2 km,1.1 km (Upper Lake),FALSE,5.8 km,8.8 km,11.8 km,2.5 km
+Ashok Housing Soc,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,3.8 km (Lower Lake),FALSE,3.2 km,6.0 km,15.0 km,3.2 km
+Ambedkar Nagar,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,2.2 km (Lower Lake),FALSE,3.2 km,6.2 km,15.0 km,5.0 km
+Chiklod Corridor,"₹1,700 – ₹3,000","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.2 km,4.0 km,8.5 km (Lower Lake),FALSE,10.5 km,12.5 km,21.5 km,11.0 km
+Fortune Golden,"₹2,500 – ₹4,200","Villa, Land",FALSE,TRUE,TRUE,FALSE,2.8 km,3.1 km,5.2 km (Shahpura),FALSE,8.5 km,7.2 km,23.5 km,13.5 km
+Swadesh Orchard,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.1 km,3.4 km,5.5 km (Shahpura),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Faith Imperial,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,2.6 km,3.0 km (Kaliasot Dam),FALSE,8.2 km,7.0 km,23.2 km,13.2 km
+Signature S Nine,"₹2,700 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.8 km,3.2 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Fortune Kasturi,"₹2,900 – ₹4,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Trebhuvan Hari,"₹1,800 – ₹3,200","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.8 km,4.2 km,4.8 km (Kaliasot Dam),FALSE,9.8 km,8.6 km,24.8 km,14.8 km
+Shalimar Fortleza,"₹3,200 – ₹5,400","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.8 km,1.5 km,1.8 km (Shahpura),TRUE,3.8 km,3.5 km,18.8 km,8.8 km
+IBD Hallmark,"₹2,400 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,3.2 km,3.5 km,5.8 km (Shahpura),FALSE,8.8 km,6.5 km,23.8 km,13.8 km
+Globus Coral Woods,"₹2,500 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.5 km,3.8 km,6.0 km (Shahpura),FALSE,9.1 km,6.8 km,24.1 km,14.1 km
+Nikhil Nestles,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.3 km,5.6 km (Shahpura),FALSE,8.6 km,6.3 km,23.6 km,13.6 km
+Royal Palms Sector,"₹2,700 – ₹4,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.6 km,2.9 km,5.2 km (Shahpura),TRUE,8.2 km,5.9 km,23.2 km,13.2 km
+Parke Serene Zone,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.4 km,3.7 km,5.9 km (Shahpura),FALSE,9.0 km,6.7 km,24.0 km,14.0 km
+Centurion Sky,"₹2,800 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,2.4 km,4.8 km (Shahpura),FALSE,7.7 km,5.4 km,22.7 km,12.7 km
+Nikunj Heights,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Ambreen Homes,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.4 km,4.0 km (Kaliasot Dam),FALSE,8.6 km,7.4 km,23.6 km,13.6 km
+Sarah Homes Zone,"₹2,300 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Maple Tree Block,"₹2,700 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,3.0 km,3.6 km (Kaliasot Dam),FALSE,8.2 km,7.0 km,23.2 km,13.2 km
+Mahadev Parisar,"₹3,500 – ₹5,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.9 km,1.8 km (Shahpura),FALSE,4.5 km,4.8 km,19.5 km,9.5 km
+Kilendev Towers,"₹3,600 – ₹5,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,1.7 km,1.6 km (Shahpura),FALSE,4.2 km,4.5 km,19.2 km,9.2 km
+Sampatti Greens,"₹2,200 – ₹3,800","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.5 km,3.9 km,4.5 km (Kaliasot Dam),FALSE,9.5 km,8.3 km,24.5 km,14.5 km
+Girnar Hills Phase,"₹1,800 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.8 km,4.2 km,4.8 km (Kaliasot Dam),FALSE,9.8 km,8.6 km,24.8 km,14.8 km
+Sheetalnath Block,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.4 km,4.0 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.0 km,14.0 km
+Soumya Parklands,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Virasha Nisarga,"₹2,800 – ₹4,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.9 km,2.3 km,2.8 km (Kaliasot Dam),TRUE,7.5 km,6.2 km,22.5 km,12.5 km
+Pradhan Pristine,"₹2,600 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),FALSE,7.7 km,6.4 km,22.7 km,12.7 km
+Vardhman Fairmont,"₹2,500 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.3 km,2.7 km,3.2 km (Kaliasot Dam),FALSE,7.9 km,6.6 km,22.9 km,12.9 km
+Rosewood Enclave 2,"₹2,600 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.9 km,3.4 km (Kaliasot Dam),FALSE,8.1 km,6.8 km,23.1 km,13.1 km
+Pacific Blue Enc.,"₹2,700 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,2.4 km,2.9 km (Kaliasot Dam),FALSE,7.6 km,6.3 km,22.6 km,12.6 km
+Aamra Nivaasa,"₹1,900 – ₹3,400",Villa,FALSE,FALSE,TRUE,FALSE,3.6 km,4.0 km,4.6 km (Kaliasot Dam),FALSE,9.6 km,8.4 km,24.6 km,14.6 km
+Ganga Heights Line,"₹1,800 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.8 km,4.2 km,4.8 km (Kaliasot Dam),FALSE,9.8 km,8.6 km,24.8 km,14.8 km
+Sigma Greens,"₹2,100 – ₹3,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,24.2 km,14.2 km
+Girnar Valley Blk,"₹2,200 – ₹3,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.1 km,3.5 km,4.1 km (Kaliasot Dam),FALSE,9.1 km,7.9 km,24.1 km,14.1 km
+Eco Green Park,"₹2,300 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.9 km,3.3 km,3.9 km (Kaliasot Dam),FALSE,8.9 km,7.7 km,23.9 km,13.9 km
+Kanha Towers Strip,"₹2,800 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,3.8 km,3.2 km,18.8 km,8.8 km
+Amrit South Ave,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.1 km,2.5 km (Shahpura),FALSE,4.1 km,3.5 km,19.1 km,9.1 km
+Masters Residency,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,2.3 km,2.7 km (Shahpura),FALSE,4.3 km,3.7 km,19.3 km,9.3 km
+Vishnu Hitech City,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.2 km,2.6 km (Shahpura),FALSE,4.2 km,3.6 km,19.2 km,9.2 km
+Krishna Kunj,"₹1,800 – ₹3,200","Villa, Land",FALSE,TRUE,FALSE,FALSE,3.5 km,3.1 km,3.5 km (Shahpura),FALSE,5.2 km,4.6 km,20.2 km,10.2 km
+Indus Realty Comp,"₹2,000 – ₹3,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,2.8 km,3.2 km (Shahpura),FALSE,4.9 km,4.3 km,19.9 km,9.9 km
+The Prospera Belt,"₹2,700 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.9 km,2.3 km (Shahpura),FALSE,3.9 km,3.3 km,18.9 km,8.9 km
+Ayodhya Dham Par,"₹1,900 – ₹3,400","Villa, Land",FALSE,TRUE,FALSE,FALSE,2.4 km,2.8 km,8.0 km (Lower Lake),FALSE,8.2 km,11.2 km,17.2 km,8.2 km
+Phoenix Corp Park,"₹3,200 – ₹5,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.2 km,7.4 km (Lower Lake),FALSE,7.6 km,10.6 km,16.6 km,7.6 km
+Crystal Const.,"₹2,300 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,7.7 km (Lower Lake),FALSE,7.9 km,10.9 km,16.9 km,7.9 km
+Regal Group Layout,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,2.6 km,7.8 km (Lower Lake),FALSE,8.0 km,11.0 km,17.0 km,8.0 km
+Sawariya Homes,"₹1,800 – ₹3,000",Villa,FALSE,FALSE,TRUE,FALSE,3.2 km,3.6 km,8.8 km (Lower Lake),FALSE,9.0 km,12.0 km,18.0 km,9.0 km
+Rajora Infra Enc.,"₹1,700 – ₹2,900",Villa,FALSE,FALSE,TRUE,FALSE,3.5 km,3.9 km,9.1 km (Lower Lake),FALSE,9.3 km,12.3 km,18.3 km,9.3 km
+Anand Kapoor Comp,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,3.0 km,8.2 km (Lower Lake),FALSE,8.4 km,11.4 km,17.4 km,8.4 km
+Tilak Raj Kapoor,"₹2,300 – ₹3,700","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,8.4 km (Lower Lake),FALSE,8.6 km,11.6 km,17.6 km,8.6 km
+B2 Grow IT Corr,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,2.4 km,7.6 km (Lower Lake),FALSE,7.8 km,10.8 km,16.8 km,7.8 km
+AKVN Bagroda Road,"₹1,500 – ₹2,500","Villa, Land",FALSE,TRUE,TRUE,FALSE,5.5 km,4.8 km,12.8 km (Lower Lake),FALSE,16.5 km,14.5 km,30.5 km,21.5 km
+Prabhat Petrol,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,3.8 km (Lower Lake),FALSE,3.5 km,6.5 km,15.5 km,3.5 km
+Lakshya Downtown,"₹2,000 – ₹3,500","Villa, Land",FALSE,TRUE,FALSE,FALSE,2.2 km,2.6 km,4.6 km (Lower Lake),FALSE,4.3 km,7.3 km,16.3 km,4.3 km
+Agrawal Sagar,"₹2,500 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.2 km,7.2 km (Lower Lake),FALSE,7.4 km,10.4 km,16.4 km,7.4 km
+Vrindavan Garden,"₹2,400 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,2.4 km,7.4 km (Lower Lake),FALSE,7.6 km,10.6 km,16.6 km,7.6 km
+Century Heights,"₹2,500 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.9 km,2.3 km,7.3 km (Lower Lake),FALSE,7.5 km,10.5 km,16.5 km,7.5 km
+Shahpura Lake View,"₹4,000 – ₹6,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,0.6 km,0.9 km,0.3 km (Shahpura),TRUE,4.3 km,4.0 km,19.5 km,9.5 km
+10 No. Market Enc,"₹3,800 – ₹6,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.1 km,0.8 km,1.8 km (Shahpura),FALSE,2.5 km,3.2 km,17.5 km,7.5 km
+MANIT Campus Per,"₹3,200 – ₹5,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,2.2 km,1.5 km (Shahpura),FALSE,3.8 km,4.2 km,16.5 km,7.2 km
+Barkheda Sec A,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,4.5 km (Lower Lake),FALSE,6.5 km,4.5 km,20.5 km,10.0 km
+Barkheda Sec B,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.7 km,4.8 km (Lower Lake),FALSE,6.8 km,4.8 km,20.8 km,10.3 km
+Barkheda Sec D,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,1.2 km,4.3 km (Lower Lake),FALSE,6.3 km,4.3 km,20.3 km,9.8 km
+Govindpura Sec H,"₹2,500 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.9 km,5.7 km (Lower Lake),FALSE,5.7 km,7.7 km,18.7 km,6.7 km
+Govindpura Sec N,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,2.1 km,5.9 km (Lower Lake),FALSE,5.9 km,7.9 km,18.9 km,6.9 km
+Karond Mandi Sec A,"₹2,300 – ₹3,700","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,3.2 km,6.8 km (Upper Lake),FALSE,10.2 km,13.2 km,11.8 km,5.2 km
+Karond Mandi Sec C,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,3.4 km,7.0 km (Upper Lake),FALSE,10.4 km,13.4 km,12.0 km,5.4 km
+Khajuri Kalan A,"₹2,100 – ₹3,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,1.7 km,8.8 km (Lower Lake),FALSE,10.2 km,12.7 km,21.2 km,11.2 km
+Khajuri Kalan B,"₹2,000 – ₹3,400","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.4 km,1.9 km,9.0 km (Lower Lake),FALSE,10.4 km,12.9 km,21.4 km,11.4 km
+Misrod Sec A,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,5.4 km (Shahpura),FALSE,9.5 km,6.8 km,24.5 km,14.5 km
+Misrod Sec B,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.0 km,1.6 km,5.6 km (Shahpura),FALSE,9.7 km,7.0 km,24.7 km,14.7 km
+Salaiya Sec A,"₹2,400 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.8 km (Kaliasot Dam),FALSE,8.5 km,7.3 km,23.8 km,13.5 km
+Salaiya Sec B,"₹2,300 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.3 km,2.7 km,4.0 km (Kaliasot Dam),FALSE,8.7 km,7.5 km,24.0 km,13.7 km
+Bagmugaliya Sec A,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.7 km,4.1 km (Shahpura),FALSE,7.5 km,3.1 km,22.8 km,12.8 km
+Bagmugaliya Sec C,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,1.9 km,4.3 km (Shahpura),FALSE,7.7 km,3.3 km,23.0 km,13.0 km
+Awadhpuri Sec A,"₹2,300 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.8 km,2.7 km,6.8 km (Lower Lake),FALSE,8.2 km,9.7 km,22.7 km,11.7 km
+Awadhpuri Sec C,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.0 km,2.9 km,7.0 km (Lower Lake),FALSE,8.4 km,9.9 km,22.9 km,11.9 km
+Kolar Sec A,"₹2,400 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.6 km,2.1 km,2.2 km (Kaliasot Dam),FALSE,8.2 km,7.2 km,22.2 km,13.2 km
+Kolar Sec B,"₹2,300 – ₹3,700","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.8 km,2.3 km,2.4 km (Kaliasot Dam),FALSE,8.4 km,7.4 km,22.4 km,13.4 km
+Kolar Sec C,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.0 km,2.5 km,2.6 km (Kaliasot Dam),FALSE,8.6 km,7.6 km,22.6 km,13.6 km
+Ayodhya Byp Sec A,"₹2,300 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,2.0 km,7.2 km (Lower Lake),FALSE,8.0 km,11.0 km,17.2 km,8.0 km
+Ayodhya Byp Sec C,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.6 km,2.2 km,7.4 km (Lower Lake),FALSE,8.2 km,11.2 km,17.4 km,8.2 km
+Barrai Growth Corr,"₹1,900 – ₹3,400","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,4.0 km,4.5 km,7.2 km (Shahpura),FALSE,10.5 km,8.2 km,25.5 km,15.5 km
+Jamalpura Sec 9,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.8 km,3.5 km (Upper Lake),FALSE,7.2 km,10.2 km,12.2 km,3.0 km
+Shirdipuram Enc.,"₹2,300 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,23.2 km,14.2 km
+Custom Colony Lay,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,2.8 km,8.0 km (Lower Lake),FALSE,8.2 km,11.2 km,17.2 km,8.2 km
+Banjari Micro-Poc,"₹2,200 – ₹3,800","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,1.5 km,1.9 km,2.1 km (Kaliasot Dam),FALSE,8.2 km,7.2 km,22.2 km,13.2 km
+Indra Vihar Colony,"₹2,600 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.5 km,1.6 km,1.8 km (Upper Lake),FALSE,6.7 km,9.7 km,12.7 km,4.0 km
+E8 Extension Sec,"₹3,000 – ₹5,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.0 km,1.7 km,2.0 km (Shahpura),TRUE,4.0 km,3.2 km,19.0 km,9.0 km
+Shrawan Kanta Est,"₹1,900 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.8 km,4.2 km,4.8 km (Kaliasot Dam),FALSE,9.4 km,8.2 km,23.4 km,14.4 km
+Coral Casa Lane,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.8 km,3.2 km,5.2 km (Shahpura),FALSE,7.2 km,5.7 km,21.7 km,12.2 km
+Kamal Bellaire,"₹2,800 – ₹4,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.2 km,1.6 km,4.3 km (Shahpura),TRUE,5.6 km,4.1 km,21.2 km,11.2 km
+Surendra Palace,"₹3,100 – ₹5,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.5 km,1.2 km,1.9 km (Shahpura),FALSE,3.8 km,3.5 km,18.8 km,8.8 km
+Narayan Nagar,"₹2,600 – ₹4,200","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.6 km,2.3 km,2.5 km (Shahpura),FALSE,4.5 km,3.5 km,19.5 km,9.5 km
+Emerald Park City,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,1.9 km,2.1 km (Shahpura),FALSE,4.0 km,3.2 km,19.0 km,9.0 km
+Indus Garden Ph 2,"₹2,200 – ₹3,600",Villa,FALSE,FALSE,TRUE,FALSE,3.5 km,3.8 km,6.0 km (Shahpura),FALSE,9.1 km,6.8 km,24.1 km,14.1 km
+Geet Ganesh Villas,"₹2,300 – ₹3,800",Villa,FALSE,FALSE,TRUE,FALSE,3.2 km,3.5 km,5.7 km (Shahpura),FALSE,8.8 km,6.5 km,23.8 km,13.8 km
+Geet Bungalows 5,"₹2,200 – ₹3,600",Villa,FALSE,FALSE,TRUE,FALSE,3.4 km,3.7 km,5.9 km (Shahpura),FALSE,9.0 km,6.7 km,24.0 km,14.0 km
+Sanjeev Nagar,"₹2,100 – ₹3,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.8 km,2.1 km,2.2 km (Upper Lake),FALSE,11.5 km,14.5 km,3.5 km,7.5 km
+Ansals Lake View,"₹4,500 – ₹8,000",Villa,FALSE,FALSE,TRUE,FALSE,1.9 km,1.3 km,0.2 km (Upper Lake),TRUE,6.8 km,9.8 km,12.8 km,4.3 km
+Sabri Parisar Seg,"₹3,400 – ₹5,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.1 km,2.2 km (Shahpura),FALSE,4.5 km,3.8 km,19.5 km,9.5 km
+Nupur Kunj Parisar,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Manisha Market Sec,"₹3,200 – ₹5,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.1 km,1.6 km (Shahpura),FALSE,3.8 km,3.5 km,18.8 km,8.8 km
+Rishi Nagar Yojana,"₹2,800 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,2.3 km,2.8 km (Shahpura),FALSE,4.5 km,3.5 km,19.5 km,9.5 km
+Nivesh Nagar,"₹2,500 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.5 km,2.2 km,2.7 km (Shahpura),FALSE,4.4 km,3.4 km,19.4 km,9.4 km
+Shankar Nagar,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.6 km,1.3 km,1.8 km (Shahpura),FALSE,3.9 km,3.1 km,18.9 km,8.9 km
+Jharnashwar Area,"₹2,700 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.1 km,2.6 km (Shahpura),FALSE,4.3 km,3.3 km,19.3 km,9.3 km
+Antyodaya Nagar,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,24.2 km,14.2 km
+Ratnagiri Yojna,"₹2,300 – ₹3,700","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.5 km,1.1 km,6.2 km (Lower Lake),FALSE,6.8 km,9.5 km,18.5 km,7.5 km
+Sonia Gandhi Sec,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,6.5 km (Lower Lake),FALSE,7.1 km,9.8 km,18.8 km,7.8 km
+Firdosh Nagar,"₹2,100 – ₹3,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,2.8 km,7.5 km (Upper Lake),FALSE,11.2 km,14.2 km,12.2 km,5.8 km
+Moti Quarters Sec,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,2.2 km (Lower Lake),FALSE,3.2 km,6.2 km,15.0 km,5.0 km
+Vasundhara Colony,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.5 km,1.9 km,2.1 km (Kaliasot Dam),FALSE,8.2 km,7.2 km,22.2 km,13.2 km
+Pandit Bhimsen,"₹2,200 – ₹3,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,2.8 km,3.0 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Sherin Complex,"₹2,500 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,1.6 km,1.8 km (Upper Lake),FALSE,6.7 km,9.7 km,12.7 km,4.0 km
+Vinayak Nagar,"₹1,900 – ₹3,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.6 km,4.0 km,4.6 km (Kaliasot Dam),FALSE,9.6 km,8.4 km,24.6 km,14.6 km
+Siddheshwari Nagar,"₹2,100 – ₹3,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,9.2 km,8.0 km,24.2 km,14.2 km
+Mahalaxmi Awasiya,"₹2,200 – ₹3,800","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.9 km,3.3 km,3.9 km (Kaliasot Dam),FALSE,8.9 km,7.7 km,23.9 km,13.9 km
+Maharishi Patanjali,"₹2,300 – ₹3,700","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.6 km,3.0 km,3.6 km (Kaliasot Dam),FALSE,8.6 km,7.4 km,23.6 km,13.6 km
+Barkheda Sec G,"₹2,500 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.5 km,2.1 km,5.2 km (Lower Lake),FALSE,7.5 km,5.5 km,21.5 km,11.0 km
+Govindpura Sec K,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.9 km,5.7 km (Lower Lake),FALSE,5.7 km,7.7 km,18.7 km,6.7 km
+Karond Mandi Sec F,"₹2,200 – ₹3,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,3.2 km,6.8 km (Upper Lake),FALSE,10.2 km,13.2 km,11.8 km,5.2 km
+Khajuri Kalan D,"₹2,000 – ₹3,400","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,1.7 km,8.8 km (Lower Lake),FALSE,10.2 km,12.7 km,21.2 km,11.2 km
+Misrod Sec D,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.8 km,1.4 km,5.4 km (Shahpura),FALSE,9.5 km,6.8 km,24.5 km,14.5 km
+Salaiya Sec D,"₹2,300 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.8 km (Kaliasot Dam),FALSE,8.5 km,7.3 km,23.8 km,13.5 km
+Bagmugaliya Sec E,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.4 km,1.7 km,4.1 km (Shahpura),FALSE,7.5 km,3.1 km,22.8 km,12.8 km
+Awadhpuri Sec E,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.8 km,2.7 km,6.8 km (Lower Lake),FALSE,8.2 km,9.7 km,22.7 km,11.7 km
+Kolar Sec E,"₹2,300 – ₹3,700","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.6 km,2.1 km,2.2 km (Kaliasot Dam),FALSE,8.2 km,7.2 km,22.2 km,13.2 km
+Ayodhya Byp Sec E,"₹2,200 – ₹3,600","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,2.0 km,7.2 km (Lower Lake),FALSE,8.0 km,11.0 km,17.2 km,8.0 km
+Chinar Woodlands,"₹2,800 – ₹4,500","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.5 km,1.9 km,4.3 km (Shahpura),TRUE,7.1 km,5.6 km,21.6 km,12.1 km
+Signature Res.,"₹2,500 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.9 km,2.3 km,2.8 km (Kaliasot Dam),TRUE,7.5 km,6.2 km,22.5 km,12.5 km
+Soumya Vihar,"₹2,400 – ₹3,900","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),FALSE,7.7 km,6.4 km,22.7 km,12.7 km
+BDA Heights Comp,"₹2,500 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.3 km,2.7 km,3.2 km (Kaliasot Dam),FALSE,7.9 km,6.6 km,22.9 km,12.9 km
+Regal Town Ph 2,"₹2,400 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,7.7 km (Lower Lake),FALSE,8.0 km,11.0 km,17.0 km,8.0 km
+Sagar Landmark,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.9 km,2.3 km,7.3 km (Lower Lake),FALSE,7.5 km,10.5 km,16.5 km,7.5 km
+Agrawal Heritage,"₹1,900 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.5 km,3.9 km,9.1 km (Lower Lake),FALSE,9.3 km,12.3 km,18.3 km,9.3 km
+Mirchandani Belt,"₹3,000 – ₹5,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.5 km,1.2 km,1.6 km (Shahpura),TRUE,3.8 km,3.5 km,18.8 km,8.8 km
+DK Cottages Sector,"₹2,300 – ₹3,800",Villa,FALSE,FALSE,TRUE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Mahendra City Dist,"₹2,400 – ₹4,000","Flat, Villa, Land, Apartment",TRUE,TRUE,TRUE,FALSE,2.5 km,2.9 km,3.6 km (Kaliasot Dam),FALSE,8.6 km,7.4 km,23.6 km,13.6 km
+Windsor Aralia,"₹2,800 – ₹4,500","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,4.0 km,3.2 km,19.0 km,9.0 km
+Madhuban Heights,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+CI Grand Row Houses,"₹2,500 – ₹4,100",Villa,FALSE,FALSE,TRUE,FALSE,3.0 km,3.4 km,4.0 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Vindhyachal Acad.,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.0 km,14.0 km
+Fortune Landm. B,"₹2,500 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Bhojpal Shree,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.2 km,2.6 km,7.8 km (Lower Lake),FALSE,9.8 km,11.8 km,19.8 km,10.3 km
+Shilpi Eco Towers,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+RKN Nakshatra Lay,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.4 km,4.0 km (Kaliasot Dam),FALSE,8.6 km,7.4 km,23.6 km,13.6 km
+Sagar Sunrise Seg,"₹2,300 – ₹3,700","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Sagar Pearl Enc.,"₹2,500 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Swadesh Majesty,"₹1,900 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.6 km,4.0 km,4.6 km (Kaliasot Dam),FALSE,9.6 km,8.4 km,24.6 km,14.6 km
+Sunita Geet Sky,"₹2,500 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,4.1 km,3.5 km,19.1 km,9.1 km
+Fortune Atlantis 2,"₹2,600 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Sage Sun Villas,"₹2,000 – ₹3,500",Villa,FALSE,FALSE,TRUE,FALSE,3.0 km,3.4 km,4.0 km (Kaliasot Dam),FALSE,8.8 km,7.6 km,23.8 km,13.8 km
+Asnani Valencia,"₹2,700 – ₹4,400","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.2 km,3.6 km,4.2 km (Kaliasot Dam),FALSE,9.0 km,7.8 km,24.0 km,14.0 km
+New Ashoka Garden,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,3.8 km (Lower Lake),FALSE,3.5 km,6.5 km,15.5 km,3.5 km
+Prabhat Petrol Ln,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.5 km,1.9 km,3.9 km (Lower Lake),FALSE,3.6 km,6.6 km,15.6 km,3.6 km
+Big Bazaar Bawadia,"₹2,800 – ₹4,600","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.1 km,1.5 km,2.4 km (Shahpura),TRUE,5.5 km,4.1 km,20.5 km,10.5 km
+Aredi Lakeview,"₹1,500 – ₹2,800","Villa, Land",FALSE,TRUE,FALSE,FALSE,5.8 km,5.1 km,6.2 km (Upper Lake),FALSE,15.8 km,18.8 km,5.8 km,10.8 km
+Kiran Nagar Sector,"₹2,200 – ₹3,600","Villa, Land",FALSE,TRUE,TRUE,FALSE,3.5 km,3.9 km,4.5 km (Kaliasot Dam),FALSE,9.5 km,8.3 km,24.5 km,14.5 km
+Sagar Avenue Strip,"₹2,400 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,7.7 km (Lower Lake),FALSE,7.9 km,10.9 km,16.9 km,7.9 km
+Deepmala CBD,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Ultimate Heights,"₹2,600 – ₹4,000","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,4.1 km,3.5 km,19.1 km,9.1 km
+G N Opera City,"₹2,400 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Urban River Ext.,"₹2,300 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.6 km,2.0 km,4.4 km (Shahpura),TRUE,7.2 km,5.7 km,21.7 km,12.2 km
+Sagar Prime Zone,"₹2,500 – ₹4,100","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.1 km,1.8 km,2.2 km (Shahpura),FALSE,4.1 km,3.5 km,19.1 km,9.1 km
+Sagar Lifestyle,"₹2,600 – ₹4,300","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,2.8 km,3.2 km,3.8 km (Kaliasot Dam),FALSE,8.4 km,7.2 km,23.4 km,13.4 km
+Fortune Divine 2,"₹2,400 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Paras Majestic,"₹2,600 – ₹4,200","Flat, Land",TRUE,TRUE,FALSE,FALSE,0.8 km,1.1 km,1.4 km (Shahpura),TRUE,5.4 km,4.4 km,21.4 km,10.4 km
+Fortune Soumya,"₹2,500 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),TRUE,7.7 km,6.4 km,22.7 km,12.7 km
+Ganesh Galaxy,"₹2,400 – ₹3,800","Flat, Land",TRUE,TRUE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),TRUE,7.0 km,5.5 km,21.5 km,12.0 km
+Ishaan Park Corr,"₹2,500 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),TRUE,7.7 km,6.4 km,22.7 km,12.7 km
+Sarla Estate Line,"₹1,800 – ₹3,200",Villa,FALSE,FALSE,TRUE,FALSE,3.6 km,4.0 km,4.6 km (Kaliasot Dam),FALSE,9.6 km,8.4 km,24.6 km,14.6 km
+Ruchi Lifescapes,"₹2,600 – ₹4,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,3.0 km,3.3 km,5.6 km (Shahpura),FALSE,8.6 km,6.3 km,23.6 km,13.6 km
+Bhoomi Golden,"₹2,400 – ₹3,900","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),FALSE,7.0 km,5.5 km,21.5 km,12.0 km
+Nirvana Rudraksh,"₹2,500 – ₹4,100","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),TRUE,7.7 km,6.4 km,22.7 km,12.7 km
+Prabhatam Heights,"₹2,400 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),FALSE,7.0 km,5.5 km,21.5 km,12.0 km
+BDA Sardar Patel,"₹2,300 – ₹3,700","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),FALSE,7.0 km,5.5 km,21.5 km,12.0 km
+Signature City 2,"₹2,500 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),TRUE,7.7 km,6.4 km,22.7 km,12.7 km
+Fortune EWS,"₹2,100 – ₹3,200","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),FALSE,7.0 km,5.5 km,21.5 km,12.0 km
+Parshv Housing,"₹2,300 – ₹3,800","Flat, Apartment",TRUE,FALSE,FALSE,FALSE,1.4 km,1.8 km,4.2 km (Shahpura),FALSE,7.0 km,5.5 km,21.5 km,12.0 km
+Arth Dynasty Sec,"₹2,400 – ₹4,000","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.1 km,2.5 km,3.0 km (Kaliasot Dam),TRUE,7.7 km,6.4 km,22.7 km,12.7 km
+Custom Colony Int,"₹2,300 – ₹3,900","Flat, Land",TRUE,TRUE,FALSE,FALSE,2.2 km,2.8 km,8.0 km (Lower Lake),FALSE,8.2 km,11.2 km,17.2 km,8.2 km
