@@ -122,4 +122,9 @@ STATIC_URL = 'static/'
 STATIC_ROOT=BASE_DIR / 'staticfiles'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://bhopal-house-price-predictor-dsd2.vercel.app",
+]
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://bhopal-house-price-predictor-dsd2.vercel.app",
 ]
